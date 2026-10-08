@@ -12,3 +12,4 @@ Muffin ......... 3.00
 Cookie ......... 2.00
 Iced Latte ..... 5.00
 Lemonade ....... 3.50
+Cold Brew ...... 4.75
